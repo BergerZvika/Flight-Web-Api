@@ -1,0 +1,16 @@
+{
+  "passengers": 236,
+  "company_name": "Realmo Air",
+  "initial_location": {
+    "latitude": 52,
+    "longitude": 60,
+    "date_time": "2020-06-04T07:21:00Z"
+  },
+  "segments": [
+    {
+      "longitude": 4,
+      "latitude": 5,
+      "timespan_seconds": 90
+    }
+  ]
+}

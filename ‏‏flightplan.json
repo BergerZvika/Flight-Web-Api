@@ -1,0 +1,21 @@
+{
+  "passengers": 236,
+  "company_name": "El-Al",
+  "initial_location": {
+    "latitude": 26,
+    "longitude": 120,
+    "date_time": "2020-06-04T06:59:26Z"
+  },
+  "segments": [
+    {
+      "longitude": 32,
+      "latitude": 62,
+      "timespan_seconds": 300
+    },
+    {
+      "longitude": 13,
+      "latitude": 7,
+      "timespan_seconds": 65000
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "passengers": 236,
+  "company_name": "Arkia",
+  "initial_location": {
+    "latitude": 0,
+    "longitude": 0,
+    "date_time": "2020-06-04T06:59:26Z"
+  },
+  "segments": [
+    {
+      "longitude": 4,
+      "latitude": 5,
+      "timespan_seconds": 300
+    },
+    {
+      "longitude": 25,
+      "latitude": 25,
+      "timespan_seconds": 65000
+    }
+  ]
+}

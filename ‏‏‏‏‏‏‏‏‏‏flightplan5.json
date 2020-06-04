@@ -1,0 +1,26 @@
+{
+  "passengers": 236,
+  "company_name": "AirPlan",
+  "initial_location": {
+    "latitude": 23,
+    "longitude": 90,
+    "date_time": "2020-06-04T07:01:26Z"
+  },
+  "segments": [
+    {
+      "longitude": 15,
+      "latitude": 90,
+      "timespan_seconds": 300
+    },
+    {
+      "longitude": 25,
+      "latitude": 25,
+      "timespan_seconds": 65000
+    },
+    {
+      "longitude": 25,
+      "latitude": 25,
+      "timespan_seconds": 65000
+    }
+  ]
+}
